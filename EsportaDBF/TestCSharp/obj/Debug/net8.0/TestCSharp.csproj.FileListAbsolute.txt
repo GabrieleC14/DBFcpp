@@ -1,0 +1,5 @@
+C:\_PROGETTI\VBNET\EsportaDBF\TestCSharp\obj\Debug\net8.0\TestCSharp.csproj.AssemblyReference.cache
+C:\_PROGETTI\VBNET\EsportaDBF\TestCSharp\obj\Debug\net8.0\TestCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\_PROGETTI\VBNET\EsportaDBF\TestCSharp\obj\Debug\net8.0\TestCSharp.AssemblyInfoInputs.cache
+C:\_PROGETTI\VBNET\EsportaDBF\TestCSharp\obj\Debug\net8.0\TestCSharp.AssemblyInfo.cs
+C:\_PROGETTI\VBNET\EsportaDBF\TestCSharp\obj\Debug\net8.0\TestCSharp.csproj.CoreCompileInputs.cache

@@ -1,0 +1,8 @@
+﻿Importazione articoli effettuata con successo il 21/05/2025 15:22:34(759 trovati - 0 inseriti - 759 modificati - 0 in errore)
+Importazione Clienti/fornitori effettuata con successo il 21/05/2025 15:22:39(498 trovati - 0 inseriti - 498 modificati - 0 in errore)
+Importazione articoli effettuata con successo il 21/05/2025 17:04:48(759 trovati - 0 inseriti - 759 modificati - 0 in errore)
+Importazione Clienti/fornitori effettuata con successo il 21/05/2025 17:04:53(498 trovati - 0 inseriti - 498 modificati - 0 in errore)
+Esportazione effettuata con successo il 21/05/2025 17:13:44
+Importazione articoli effettuata con successo il 21/05/2025 17:18:18(759 trovati - 0 inseriti - 759 modificati - 0 in errore)
+Importazione Clienti/fornitori effettuata con successo il 21/05/2025 17:18:21(498 trovati - 0 inseriti - 498 modificati - 0 in errore)
+Esportazione fornitori effettuata con successo il 21/05/2025 17:27:33

@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\_PROGETTI\\VBNET\\EsportaDBF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AED282A-5F44-4C5E-82B6-DE7AF9606923}|EsportaDBF\\EsportaDBF.vbproj|c:\\_progetti\\vbnet\\esportadbf\\esportadbf\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0AED282A-5F44-4C5E-82B6-DE7AF9606923}|EsportaDBF\\EsportaDBF.vbproj|solutionrelative:esportadbf\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AED282A-5F44-4C5E-82B6-DE7AF9606923}|EsportaDBF\\EsportaDBF.vbproj|C:\\_PROGETTI\\VBNET\\EsportaDBF\\esportadbf\\cdxcreator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0AED282A-5F44-4C5E-82B6-DE7AF9606923}|EsportaDBF\\EsportaDBF.vbproj|solutionrelative:esportadbf\\cdxcreator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AED282A-5F44-4C5E-82B6-DE7AF9606923}|EsportaDBF\\EsportaDBF.vbproj|C:\\_PROGETTI\\VBNET\\EsportaDBF\\esportadbf\\databasemodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0AED282A-5F44-4C5E-82B6-DE7AF9606923}|EsportaDBF\\EsportaDBF.vbproj|solutionrelative:esportadbf\\databasemodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AED282A-5F44-4C5E-82B6-DE7AF9606923}|EsportaDBF\\EsportaDBF.vbproj|C:\\_PROGETTI\\VBNET\\EsportaDBF\\esportadbf\\importafiledbf.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0AED282A-5F44-4C5E-82B6-DE7AF9606923}|EsportaDBF\\EsportaDBF.vbproj|solutionrelative:esportadbf\\importafiledbf.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AED282A-5F44-4C5E-82B6-DE7AF9606923}|EsportaDBF\\EsportaDBF.vbproj|C:\\_PROGETTI\\VBNET\\EsportaDBF\\esportadbf\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0AED282A-5F44-4C5E-82B6-DE7AF9606923}|EsportaDBF\\EsportaDBF.vbproj|solutionrelative:esportadbf\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AED282A-5F44-4C5E-82B6-DE7AF9606923}|EsportaDBF\\EsportaDBF.vbproj|C:\\_PROGETTI\\VBNET\\EsportaDBF\\esportadbf\\esportafiledbf.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0AED282A-5F44-4C5E-82B6-DE7AF9606923}|EsportaDBF\\EsportaDBF.vbproj|solutionrelative:esportadbf\\esportafiledbf.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AED282A-5F44-4C5E-82B6-DE7AF9606923}|EsportaDBF\\EsportaDBF.vbproj|C:\\_PROGETTI\\VBNET\\EsportaDBF\\esportadbf\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0AED282A-5F44-4C5E-82B6-DE7AF9606923}|EsportaDBF\\EsportaDBF.vbproj|solutionrelative:esportadbf\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AED282A-5F44-4C5E-82B6-DE7AF9606923}|EsportaDBF\\EsportaDBF.vbproj|C:\\_PROGETTI\\VBNET\\EsportaDBF\\esportadbf\\dichiarazioni.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0AED282A-5F44-4C5E-82B6-DE7AF9606923}|EsportaDBF\\EsportaDBF.vbproj|solutionrelative:esportadbf\\dichiarazioni.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AED282A-5F44-4C5E-82B6-DE7AF9606923}|EsportaDBF\\EsportaDBF.vbproj|C:\\_PROGETTI\\VBNET\\EsportaDBF\\esportadbf\\test.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0AED282A-5F44-4C5E-82B6-DE7AF9606923}|EsportaDBF\\EsportaDBF.vbproj|solutionrelative:esportadbf\\test.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 323,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMain.vb",
+              "DocumentMoniker": "C:\\_PROGETTI\\VBNET\\EsportaDBF\\EsportaDBF\\FrmMain.vb",
+              "RelativeDocumentMoniker": "EsportaDBF\\FrmMain.vb",
+              "ToolTip": "C:\\_PROGETTI\\VBNET\\EsportaDBF\\EsportaDBF\\FrmMain.vb",
+              "RelativeToolTip": "EsportaDBF\\FrmMain.vb",
+              "ViewState": "AQIAAHACAAAAAAAAAAAAAI8CAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-09T07:53:51.432Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseModule.vb",
+              "DocumentMoniker": "C:\\_PROGETTI\\VBNET\\EsportaDBF\\EsportaDBF\\DatabaseModule.vb",
+              "RelativeDocumentMoniker": "EsportaDBF\\DatabaseModule.vb",
+              "ToolTip": "C:\\_PROGETTI\\VBNET\\EsportaDBF\\EsportaDBF\\DatabaseModule.vb",
+              "RelativeToolTip": "EsportaDBF\\DatabaseModule.vb",
+              "ViewState": "AQIAAKIBAAAAAAAAAADwv8wBAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-10T09:01:47.196Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2008928791:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CDXCreator.vb",
+              "DocumentMoniker": "C:\\_PROGETTI\\VBNET\\EsportaDBF\\EsportaDBF\\CDXCreator.vb",
+              "RelativeDocumentMoniker": "EsportaDBF\\CDXCreator.vb",
+              "ToolTip": "C:\\_PROGETTI\\VBNET\\EsportaDBF\\EsportaDBF\\CDXCreator.vb",
+              "RelativeToolTip": "EsportaDBF\\CDXCreator.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-28T12:21:22.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\_PROGETTI\\VBNET\\EsportaDBF\\EsportaDBF\\App.config",
+              "RelativeDocumentMoniker": "EsportaDBF\\App.config",
+              "ToolTip": "C:\\_PROGETTI\\VBNET\\EsportaDBF\\EsportaDBF\\App.config",
+              "RelativeToolTip": "EsportaDBF\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-28T09:22:41.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EsportaFileDBF.vb",
+              "DocumentMoniker": "C:\\_PROGETTI\\VBNET\\EsportaDBF\\EsportaDBF\\EsportaFileDBF.vb",
+              "RelativeDocumentMoniker": "EsportaDBF\\EsportaFileDBF.vb",
+              "ToolTip": "C:\\_PROGETTI\\VBNET\\EsportaDBF\\EsportaDBF\\EsportaFileDBF.vb",
+              "RelativeToolTip": "EsportaDBF\\EsportaFileDBF.vb",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAABYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-27T08:43:42.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dichiarazioni.vb",
+              "DocumentMoniker": "C:\\_PROGETTI\\VBNET\\EsportaDBF\\EsportaDBF\\Dichiarazioni.vb",
+              "RelativeDocumentMoniker": "EsportaDBF\\Dichiarazioni.vb",
+              "ToolTip": "C:\\_PROGETTI\\VBNET\\EsportaDBF\\EsportaDBF\\Dichiarazioni.vb",
+              "RelativeToolTip": "EsportaDBF\\Dichiarazioni.vb",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-26T11:44:32.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "test.vb",
+              "DocumentMoniker": "C:\\_PROGETTI\\VBNET\\EsportaDBF\\EsportaDBF\\test.vb",
+              "RelativeDocumentMoniker": "EsportaDBF\\test.vb",
+              "ToolTip": "C:\\_PROGETTI\\VBNET\\EsportaDBF\\EsportaDBF\\test.vb",
+              "RelativeToolTip": "EsportaDBF\\test.vb",
+              "ViewState": "AQIAAB4BAAAAAAAAAABBwDoBAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-26T09:51:35.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImportaFileDBF.vb",
+              "DocumentMoniker": "C:\\_PROGETTI\\VBNET\\EsportaDBF\\EsportaDBF\\ImportaFileDBF.vb",
+              "RelativeDocumentMoniker": "EsportaDBF\\ImportaFileDBF.vb",
+              "ToolTip": "C:\\_PROGETTI\\VBNET\\EsportaDBF\\EsportaDBF\\ImportaFileDBF.vb",
+              "RelativeToolTip": "EsportaDBF\\ImportaFileDBF.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-09T07:56:53.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmMain.vb [Progettazione]",
+              "DocumentMoniker": "C:\\_PROGETTI\\VBNET\\EsportaDBF\\EsportaDBF\\FrmMain.vb",
+              "RelativeDocumentMoniker": "EsportaDBF\\FrmMain.vb",
+              "ToolTip": "C:\\_PROGETTI\\VBNET\\EsportaDBF\\EsportaDBF\\FrmMain.vb [Progettazione]",
+              "RelativeToolTip": "EsportaDBF\\FrmMain.vb [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-09T07:49:48.157Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+﻿il file fattgen è stato copiato il 23/05/2025 14:18:03
+il file fattgen è stato copiato il 23/05/2025 14:33:46
+Esportazione fattura generale 40 effettuata con successo il 23/05/2025 14:33:46
+Esportazione riga ordine 40- ( 4 righe )completata con successo il 23/05/2025 14:34:02
+il file deanarti è stato copiato il 23/05/2025 14:35:24
+il file fattgen è stato copiato il 23/05/2025 16:13:53
+Esportazione fattura generale 41 effettuata con successo il 23/05/2025 16:13:53
+Esportazione fattura righe ( ordine 41 con 4 righe ) completata con successo il 23/05/2025 16:14:02
+il file cli_forn è stato copiato il 23/05/2025 16:14:12
+Importazione Clienti/fornitori effettuata con successo il 23/05/2025 16:14:14(439 trovati - 439 inseriti - 0 modificati - 0 in errore)
+il file fattgen è stato copiato il 23/05/2025 16:18:28
+il file fattgen è stato copiato il 23/05/2025 16:19:43
+Esportazione fattura generale 43 effettuata con successo il 23/05/2025 16:19:43
+il file fattrig è stato copiato il 23/05/2025 16:19:43
+Esportazione fattura righe ( ordine 43 con 4 righe ) completata con successo il 23/05/2025 16:19:44
+il file cli_forn è stato copiato il 23/05/2025 16:19:47
+Importazione Clienti/fornitori effettuata con successo il 23/05/2025 16:19:51(439 trovati - 0 inseriti - 439 modificati - 0 in errore)
+il file filcli è stato copiato il 23/05/2025 16:19:58
+il file cli_forn è stato copiato il 23/05/2025 16:21:22
+Importazione Clienti/fornitori effettuata con successo il 23/05/2025 16:21:25(439 trovati - 0 inseriti - 439 modificati - 0 in errore)
+il file filcli è stato copiato il 23/05/2025 16:21:35
+il file cli_forn è stato copiato il 23/05/2025 16:22:01
+Importazione Clienti/fornitori effettuata con successo il 23/05/2025 16:22:04(439 trovati - 0 inseriti - 439 modificati - 0 in errore)
+il file filcli è stato copiato il 23/05/2025 16:22:07
+il file cli_forn è stato copiato il 23/05/2025 16:23:48
+Importazione Clienti/fornitori effettuata con successo il 23/05/2025 16:23:51(439 trovati - 0 inseriti - 439 modificati - 0 in errore)
+il file filcli è stato copiato il 23/05/2025 16:23:57
+il file cli_forn è stato copiato il 23/05/2025 16:26:48
+Importazione Clienti/fornitori effettuata con successo il 23/05/2025 16:26:51(439 trovati - 0 inseriti - 439 modificati - 0 in errore)
+il file filcli è stato copiato il 23/05/2025 16:26:55
+il file cli_forn è stato copiato il 23/05/2025 16:27:33
+Importazione Clienti/fornitori effettuata con successo il 23/05/2025 16:27:35(439 trovati - 0 inseriti - 439 modificati - 0 in errore)
+il file filcli è stato copiato il 23/05/2025 16:27:41
+il file cli_forn è stato copiato il 23/05/2025 16:29:50
+Importazione Clienti/fornitori effettuata con successo il 23/05/2025 16:29:52(441 trovati - 4 inseriti - 438 modificati - 0 in errore)
+il file filcli è stato copiato il 23/05/2025 16:29:58
+Importazione Destinazioni effettuata con successo il 23/05/2025 16:34:16(67 trovati - 61 inseriti - 0 modificati - 5 in errore)
+il file deanarti è stato copiato il 23/05/2025 16:34:16
+Importazione articoli effettuata con successo il 23/05/2025 16:34:17(132 trovati - 4 inseriti - 128 modificati - 0 in errore)
+il file cli_forn è stato copiato il 23/05/2025 16:34:17
+Importazione Clienti/fornitori effettuata con successo il 23/05/2025 16:34:19(441 trovati - 0 inseriti - 442 modificati - 0 in errore)
+il file deanarti è stato copiato il 23/05/2025 16:35:14
+Importazione articoli effettuata con successo il 23/05/2025 16:35:15(132 trovati - 0 inseriti - 132 modificati - 0 in errore)
+il file cli_forn è stato copiato il 23/05/2025 16:35:15
+Importazione Clienti/fornitori effettuata con successo il 23/05/2025 16:35:17(441 trovati - 0 inseriti - 442 modificati - 0 in errore)
+il file deanarti è stato copiato il 23/05/2025 16:37:04
+Importazione articoli effettuata con successo il 23/05/2025 16:37:05(132 trovati - 0 inseriti - 132 modificati - 0 in errore)
+il file cli_forn è stato copiato il 23/05/2025 16:37:05
+Importazione non riuscita il 23/05/2025 16:37:05: Il processo non può accedere al file 'C:\Users\POS5\Desktop\Connettore MagTrace\Fatture\002\cli_forn.dbf.csv' perché è in uso da un altro processo.
+il file cli_forn è stato copiato il 23/05/2025 16:37:31
+Importazione Clienti/fornitori effettuata con successo il 23/05/2025 16:37:33(441 trovati - 0 inseriti - 442 modificati - 0 in errore)
+il file filcli è stato copiato il 23/05/2025 16:37:37
+il file cli_forn è stato copiato il 23/05/2025 16:39:17
+Importazione Clienti/fornitori effettuata con successo il 23/05/2025 16:39:56(441 trovati - 0 inseriti - 442 modificati - 0 in errore)
+il file filcli è stato copiato il 23/05/2025 16:39:56
+il file cli_forn è stato copiato il 23/05/2025 16:42:01
+Importazione non riuscita il 23/05/2025 16:42:01: Il processo non può accedere al file 'C:\Users\POS5\Desktop\Connettore MagTrace\Fatture\002\cli_forn.dbf.csv' perché è in uso da un altro processo.
+il file filcli è stato copiato il 23/05/2025 16:42:01
+il file cli_forn è stato copiato il 23/05/2025 16:42:20
+Importazione non riuscita il 23/05/2025 16:42:20: Il processo non può accedere al file 'C:\Users\POS5\Desktop\Connettore MagTrace\Fatture\002\cli_forn.dbf.csv' perché è in uso da un altro processo.
+il file filcli è stato copiato il 23/05/2025 16:42:20
+Importazione Destinazioni effettuata con successo il 23/05/2025 16:42:47(67 trovati - 0 inseriti - 61 modificati - 5 in errore)
+il file cli_forn è stato copiato il 23/05/2025 16:42:51
+Importazione non riuscita il 23/05/2025 16:42:51: Il processo non può accedere al file 'C:\Users\POS5\Desktop\Connettore MagTrace\Fatture\002\cli_forn.dbf.csv' perché è in uso da un altro processo.
+il file filcli è stato copiato il 23/05/2025 16:42:51
+Importazione Destinazioni effettuata con successo il 23/05/2025 16:43:04(67 trovati - 0 inseriti - 61 modificati - 5 in errore)
+il file cli_forn è stato copiato il 23/05/2025 16:43:13
+Importazione Clienti/fornitori effettuata con successo il 23/05/2025 16:44:34(441 trovati - 0 inseriti - 442 modificati - 0 in errore)
+il file filcli è stato copiato il 23/05/2025 16:44:34
+Importazione Destinazioni effettuata con successo il 23/05/2025 16:44:34(67 trovati - 0 inseriti - 61 modificati - 5 in errore)
+il file deanarti è stato copiato il 23/05/2025 16:46:58
+Importazione articoli effettuata con successo il 23/05/2025 16:47:00(132 trovati - 0 inseriti - 132 modificati - 0 in errore)
+il file cli_forn è stato copiato il 23/05/2025 16:47:00
+Importazione Clienti/fornitori effettuata con successo il 23/05/2025 16:47:02(441 trovati - 0 inseriti - 442 modificati - 0 in errore)
+il file filcli è stato copiato il 23/05/2025 16:47:02
+Importazione Destinazioni effettuata con successo il 23/05/2025 16:47:02(67 trovati - 0 inseriti - 61 modificati - 5 in errore)
+il file fattgen è stato copiato il 23/05/2025 16:47:02
+Esportazione fattura generale 44 effettuata con successo il 23/05/2025 16:47:03
+il file fattrig è stato copiato il 23/05/2025 16:47:03
+Esportazione fattura righe ( ordine 44 con 16 righe ) completata con successo il 23/05/2025 16:47:04
+il file deanarti è stato copiato il 23/05/2025 16:47:09
+Importazione articoli effettuata con successo il 23/05/2025 16:47:09(132 trovati - 0 inseriti - 132 modificati - 0 in errore)
+il file cli_forn è stato copiato il 23/05/2025 16:47:09
+Importazione Clienti/fornitori effettuata con successo il 23/05/2025 16:47:11(441 trovati - 0 inseriti - 442 modificati - 0 in errore)
+il file filcli è stato copiato il 23/05/2025 16:47:11
+Importazione Destinazioni effettuata con successo il 23/05/2025 16:47:12(67 trovati - 0 inseriti - 61 modificati - 5 in errore)
+il file deanarti è stato copiato il 23/05/2025 16:47:18
+Importazione articoli effettuata con successo il 23/05/2025 16:47:19(132 trovati - 0 inseriti - 132 modificati - 0 in errore)
+il file cli_forn è stato copiato il 23/05/2025 16:47:19
+Importazione Clienti/fornitori effettuata con successo il 23/05/2025 16:47:21(441 trovati - 0 inseriti - 442 modificati - 0 in errore)
+il file filcli è stato copiato il 23/05/2025 16:47:21
+Importazione Destinazioni effettuata con successo il 23/05/2025 16:47:22(67 trovati - 0 inseriti - 61 modificati - 5 in errore)
+il file deanarti è stato copiato il 23/05/2025 16:47:29
+Importazione articoli effettuata con successo il 23/05/2025 16:47:29(132 trovati - 0 inseriti - 132 modificati - 0 in errore)
+il file cli_forn è stato copiato il 23/05/2025 16:47:30
+Importazione Clienti/fornitori effettuata con successo il 23/05/2025 16:47:32(441 trovati - 0 inseriti - 442 modificati - 0 in errore)
+il file filcli è stato copiato il 23/05/2025 16:47:32
+Importazione Destinazioni effettuata con successo il 23/05/2025 16:47:32(67 trovati - 0 inseriti - 61 modificati - 5 in errore)
+il file deanarti è stato copiato il 23/05/2025 17:02:55
+Importazione articoli effettuata con successo il 23/05/2025 17:02:56(132 trovati - 0 inseriti - 132 modificati - 0 in errore)
+il file fattgen è stato copiato il 23/05/2025 17:02:58
+Esportazione fattura generale 45 effettuata con successo il 23/05/2025 17:02:58
+il file fattrig è stato copiato il 23/05/2025 17:02:58
+Esportazione fattura righe ( ordine 45 con 16 righe ) completata con successo il 23/05/2025 17:03:00
+il file fattgen è stato copiato il 23/05/2025 17:09:43
+Esportazione fattura generale 46 effettuata con successo il 23/05/2025 17:09:43
+il file fattrig è stato copiato il 23/05/2025 17:09:43
+Esportazione fattura righe ( ordine 46 con 16 righe ) completata con successo il 23/05/2025 17:09:45
+il file cli_forn è stato copiato il 23/05/2025 17:09:50
+Importazione Clienti/fornitori effettuata con successo il 23/05/2025 17:09:52(441 trovati - 0 inseriti - 442 modificati - 0 in errore)
+il file filcli è stato copiato il 23/05/2025 17:09:52
+Importazione Destinazioni effettuata con successo il 23/05/2025 17:09:53(67 trovati - 0 inseriti - 61 modificati - 5 in errore)
+il file deanarti è stato copiato il 23/05/2025 17:10:46
+Importazione articoli effettuata con successo il 23/05/2025 17:10:47(132 trovati - 0 inseriti - 132 modificati - 0 in errore)
+il file fattgen è stato copiato il 23/05/2025 17:10:50
+Esportazione fattura generale 47 effettuata con successo il 23/05/2025 17:10:50
+il file fattrig è stato copiato il 23/05/2025 17:10:50
+Esportazione fattura righe ( ordine 47 con 16 righe ) completata con successo il 23/05/2025 17:10:52
+il file cli_forn è stato copiato il 23/05/2025 17:10:54
+Importazione Clienti/fornitori effettuata con successo il 23/05/2025 17:10:55(441 trovati - 0 inseriti - 442 modificati - 0 in errore)
+il file filcli è stato copiato il 23/05/2025 17:10:55
+Importazione Destinazioni effettuata con successo il 23/05/2025 17:10:56(67 trovati - 0 inseriti - 61 modificati - 5 in errore)
+il file fattgen è stato copiato il 23/05/2025 17:15:54
+Esportazione fattura generale 48 effettuata con successo il 23/05/2025 17:19:08
+il file fattrig è stato copiato il 23/05/2025 17:20:02
+Esportazione fattura righe ( ordine 48 con 16 righe ) completata con successo il 23/05/2025 17:20:04
+il file fattgen è stato copiato il 23/05/2025 17:21:34
+Esportazione fattura generale 49 effettuata con successo il 23/05/2025 17:21:34
+il file fattrig è stato copiato il 23/05/2025 17:21:55
+Esportazione fattura righe ( ordine 49 con 16 righe ) completata con successo il 23/05/2025 17:22:50
+il file fattgen è stato copiato il 23/05/2025 17:49:34
+Esportazione di 0/2 Fatture completate
+il file fattrig è stato copiato il 23/05/2025 17:49:34
+
+il file fattgen è stato copiato il 23/05/2025 17:51:06
+il file fattgen è stato copiato il 23/05/2025 17:51:41
+Esportazione di 2/2 Fatture completate
+il file fattrig è stato copiato il 23/05/2025 17:51:55
+il file fattgen è stato copiato il 23/05/2025 17:55:08
+Esportazione di 2/2 Fatture completate
+il file fattrig è stato copiato il 23/05/2025 17:55:09
+Esportazione di 29/2 righe Fattura completate
+il file fattgen è stato copiato il 23/05/2025 17:59:08
+Esportazione di 2/2 Fatture completate
+il file fattrig è stato copiato il 23/05/2025 17:59:09
+Esportazione di 29/29 righe Fattura completate

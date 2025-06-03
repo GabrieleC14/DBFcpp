@@ -1,0 +1,20 @@
+﻿il file fattrig è stato copiato il 28/05/2025 08:19:50
+il file fattgen è stato copiato il 28/05/2025 08:19:50
+il file fattrig è stato copiato il 28/05/2025 08:22:56
+il file fattgen è stato copiato il 28/05/2025 08:22:56
+Importazione di 3/3 Fatture generali completate il 28/05/2025 08:27:41
+Importazione di 8/8 Fatture righe completateil 28/05/2025 08:27:44
+il file fattrig è stato copiato il 28/05/2025 10:00:26
+il file fattgen è stato copiato il 28/05/2025 10:00:26
+Importazione di 2/2 Fatture generali completate il 28/05/2025 10:00:45
+Importazione di 7/7 Fatture righe completateil 28/05/2025 10:00:45
+il file fattrig è stato copiato il 28/05/2025 11:16:09
+il file fattgen è stato copiato il 28/05/2025 11:16:09
+Importazione di 2/2 Fatture generali completate il 28/05/2025 11:16:14
+Importazione di 7/7 Fatture righe completateil 28/05/2025 11:16:14
+il file deanarti è stato copiato il 28/05/2025 11:22:05
+Esportazione articoli effettuata con successo il 28/05/2025 11:22:06(132 trovati - 0 inseriti - 132 modificati - 0 in errore)
+il file cli_forn è stato copiato il 28/05/2025 11:22:08
+Esportazione Clienti/fornitori effettuata con successo il 28/05/2025 11:22:12(441 trovati - 0 inseriti - 441 modificati - 0 in errore)
+il file filcli è stato copiato il 28/05/2025 11:22:12
+Esportazione Destinazioni effettuata con successo il 28/05/2025 11:22:12(61 trovati - 0 inseriti - 61 modificati - 0 in errore)
